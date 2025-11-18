@@ -7,6 +7,7 @@ namespace ConsoleApp1
             return a + b;
         }
 
+<<<<<<< HEAD
         public double Substract(double a, double b)
         {
             return a - b;
@@ -16,5 +17,11 @@ namespace ConsoleApp1
         {
             return a * b;
         }
+=======
+        public double Subtract(double a, double b)
+        {
+            return a - b;
+        }
+>>>>>>> feature/calculator
     }
 }
