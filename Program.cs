@@ -6,7 +6,11 @@ namespace ConsoleApp1
     {
         static void Main()
         {
+<<<<<<< HEAD
             Console.WriteLine("Лабораторная работа №1 - Работа с Git.");
+=======
+            Console.WriteLine("Лабораторная работа №1 - Version Control");
+>>>>>>> conflict-branch-2
             Calculator calculator = new Calculator();
             ValidationService validation = new ValidationService();
 
