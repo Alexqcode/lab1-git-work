@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main()
         {
-            Console.WriteLine("Лабораторная работа №1 - Работа с Git");
+            Console.WriteLine("Лабораторная работа №1 - Работа с Git.");
             Calculator calculator = new Calculator();
             ValidationService validation = new ValidationService();
 
